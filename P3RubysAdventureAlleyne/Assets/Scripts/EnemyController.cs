@@ -40,11 +40,15 @@ public class EnemyController : MonoBehaviour
         if (vertical)
         {
             position.y = position.y + Time.deltaTime * speed * direction;;
+            animator.SetFloat("Move X", 0);
+            animator.SetFloat("Move Y", direction);
             
         }
         else
         {
             position.x = position.x + Time.deltaTime * speed * direction;;
+            animator.SetFloat("Move X", direction);
+            animator.SetFloat("Move Y", 0);
         }
         
 
