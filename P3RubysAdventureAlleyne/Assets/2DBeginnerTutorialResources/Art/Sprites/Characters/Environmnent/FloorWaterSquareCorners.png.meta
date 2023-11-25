@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: df0b6f9e93b65bc4792e6cf7849c5e37
+guid: 56dfe645f43c419458abb426118088e5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,11 +119,63 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_0
+      name: FloorWaterSquareCorners_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b117ef768d14d4094da433e2aeab6e
-      internalID: 2011970591
+      spriteID: f3b016a83abac634dba8c896edd72871
+      internalID: 1952333783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_1
+      name: FloorWaterSquareCorners_1
       rect:
         serializedVersion: 2
         x: 64
@@ -158,14 +210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 073978c4303a19a4eb758cd0ad27b35c
-      internalID: 967002191
+      spriteID: 4de294c83b478bb468812c5f04005c60
+      internalID: -2445719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_2
+      name: FloorWaterSquareCorners_2
       rect:
         serializedVersion: 2
         x: 128
@@ -179,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c87c2adc855e2642bdf656baf6a3b8c
-      internalID: -876384347
+      spriteID: bd7bdaef1f8e8f346af98f968f41b519
+      internalID: 355664264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_3
+      name: FloorWaterSquareCorners_3
       rect:
         serializedVersion: 2
         x: 0
@@ -200,14 +252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd0c3d72d56468844802446f5b0606a1
-      internalID: 1131072592
+      spriteID: fbd902c49c28a1742aa81ad7dc386d7d
+      internalID: 1869208349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_4
+      name: FloorWaterSquareCorners_4
       rect:
         serializedVersion: 2
         x: 64
@@ -221,14 +273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78c60378ae0ab5140a5237c6b30b1926
-      internalID: 40520834
+      spriteID: 59bc138213184b7469b0ea85a8691f05
+      internalID: -377862092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_5
+      name: FloorWaterSquareCorners_5
       rect:
         serializedVersion: 2
         x: 128
@@ -242,14 +294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65424922114ed19468b667b59da3050c
-      internalID: -427514600
+      spriteID: c38c1167808f89648b0b3dc73b5a4f51
+      internalID: 682056111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_6
+      name: FloorWaterSquareCorners_6
       rect:
         serializedVersion: 2
         x: 0
@@ -263,14 +315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b6ddde17fa30a040ae3dfecbf424d8f
-      internalID: -719677369
+      spriteID: 7509a30b1df329f4da00a724e88bece6
+      internalID: -453062179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_7
+      name: FloorWaterSquareCorners_7
       rect:
         serializedVersion: 2
         x: 64
@@ -284,14 +336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69dae2b41c4bb144684f733bf88f6128
-      internalID: 475599582
+      spriteID: 0caa0c577e48db24c8ed33e705cb0fa6
+      internalID: -1451274149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorGrassToBricksCorner_8
+      name: FloorWaterSquareCorners_8
       rect:
         serializedVersion: 2
         x: 128
@@ -305,8 +357,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc35d0a587377a741a6565cab79babab
-      internalID: -280465353
+      spriteID: 0977119aa2ec608419726bbf24bd0b4a
+      internalID: 1497981317
       vertices: []
       indices: 
       edges: []
@@ -314,7 +366,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: aa45cc05fd1dd8a429622741b005adb6
+    spriteID: 3e309ce86fde5fb44895d27bb96c44a2
     internalID: 0
     vertices: []
     indices: 
@@ -322,15 +374,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FloorGrassToBricksCorner_0: 2011970591
-      FloorGrassToBricksCorner_1: 967002191
-      FloorGrassToBricksCorner_2: -876384347
-      FloorGrassToBricksCorner_3: 1131072592
-      FloorGrassToBricksCorner_4: 40520834
-      FloorGrassToBricksCorner_5: -427514600
-      FloorGrassToBricksCorner_6: -719677369
-      FloorGrassToBricksCorner_7: 475599582
-      FloorGrassToBricksCorner_8: -280465353
+      FloorWaterSquareCorners_0: 1952333783
+      FloorWaterSquareCorners_1: -2445719
+      FloorWaterSquareCorners_2: 355664264
+      FloorWaterSquareCorners_3: 1869208349
+      FloorWaterSquareCorners_4: -377862092
+      FloorWaterSquareCorners_5: 682056111
+      FloorWaterSquareCorners_6: -453062179
+      FloorWaterSquareCorners_7: -1451274149
+      FloorWaterSquareCorners_8: 1497981317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
